@@ -7,3 +7,13 @@
 -- burger_name: a string.
 -- devoured: a boolean.
 
+CREATE DATABASE mocktails_db;
+USE mocktails_db;
+
+CREATE TABLE mocktails (
+  id int NOT NULL AUTO_INCREMENT,
+  mocktail_name VARCHAR(30) NOT NULL,
+  devoured BOOLEAN DEFAULT true,
+  PRIMARY KEY (id)
+);
+
