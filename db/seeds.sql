@@ -3,6 +3,30 @@
 -- write code here
 
 
+  INSERT INTO mocktails
+    (mocktail_name)
+  VALUES
+    ("Shirly Ginger");
+
+  INSERT INTO schools
+    (name)
+  VALUES
+    ("Tahitian Coffee");
+
+  INSERT INTO schools
+    (name)
+  VALUES
+    ("Strawberry Fields");
+    
+  INSERT INTO schools
+    (name)
+  VALUES
+    ("Watermelon MargNArita");
+
+  INSERT INTO schools
+    (name)
+  VALUES
+    ("Mango Mule");
 
 
 
