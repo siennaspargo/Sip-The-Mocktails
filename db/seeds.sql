@@ -36,6 +36,8 @@
   VALUES
     ("Mango Mule");
 
+    SELECT * FROM mocktails;
+
 
 
 
