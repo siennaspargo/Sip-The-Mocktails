@@ -13,3 +13,11 @@ When the user clicks it, the mocktail will move to the right side of the page.
 
 The app stores every mocktail in a database, whether devoured or not.
 
+Resources:
+
+MYSQL Heroku Deployment Guide https://github.com/RutgersCodingBootcamp/RUTJER201808FSF2/blob/master/01-Class-Content/14-handlebars/Supplemental/MySQLHerokuDeploymentProcess.pdf
+
+Example of how this assignment should look 
+https://www.youtube.com/watch?v=msvdn95x9OM&feature=youtu.be
+
+*Add this assignment to your portfolio at the end !*
