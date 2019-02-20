@@ -7,7 +7,7 @@ Sip The Mocktail app lets users input the names of the mocktails they would like
 
 Whenever a user submits a mocktail name, the app will display the burger on the left side of the page, waiting to be drank.
 
-Each mocktail in hte waiting area also has a Devour it! button.
+Each mocktail in the waiting area also has a Devour it! button.
 
 When the user clicks it, the mocktail will move to the right side of the page. 
 
