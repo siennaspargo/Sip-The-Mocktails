@@ -5,7 +5,7 @@ This app is hosted on Heroku.
 
 Sip The Mocktail app lets users input the names of the mocktails they would like to try.
 
-Whenever a user submits a mocktail name, the app will display the burger on the left side of the page, waiting to be drank.
+Whenever a user submits a mocktail name, the app will display the drink on the left side of the page, waiting to be drank.
 
 Each mocktail in the waiting area also has a Devour it! button.
 
@@ -20,4 +20,4 @@ MYSQL Heroku Deployment Guide https://github.com/RutgersCodingBootcamp/RUTJER201
 Example of how this assignment should look 
 https://www.youtube.com/watch?v=msvdn95x9OM&feature=youtu.be
 
-*Add this assignment to your portfolio at the end !*
+
